@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "phonenumberkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/PhoneNumberKit.git",
+      "state" : {
+        "revision" : "c107075aa8d394be7aced273a46e944afe8b321b",
+        "version" : "3.8.0"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "9af51e2edf491c0ea632e369a6566e09b65aa333",
+        "version" : "0.13.0"
+      }
+    },
+    {
+      "identity" : "swiftkeychainwrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jrendel/SwiftKeychainWrapper.git",
+      "state" : {
+        "revision" : "185a3165346a03767101c4f62e9a545a0fe0530f",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "tinodesdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wirasetiawan29/TinodeSDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d03c19af9a5bbd6159e205cbd749bef99ff3e148"
+      }
+    },
+    {
+      "identity" : "webrtc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stasel/WebRTC.git",
+      "state" : {
+        "revision" : "821fd35ea2297dfafa89c400de6199ce13f736df",
+        "version" : "122.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
